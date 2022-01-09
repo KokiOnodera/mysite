@@ -2,202 +2,202 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/site/</loc>
+    <loc>https://kokionodera.github.io/mysite/site/</loc>
     <lastmod>2022-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/site/"
+                href="https://kokionodera.github.io/mysite/en/site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/site/"
+                href="https://kokionodera.github.io/mysite/site/"
                 />
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://kokionodera.github.io/mysite/about/</loc>
     <lastmod>2022-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="https://kokionodera.github.io/mysite/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/about/"
+                href="https://kokionodera.github.io/mysite/about/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://kokionodera.github.io/mysite/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://kokionodera.github.io/mysite/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/categories/"
+                href="https://kokionodera.github.io/mysite/categories/"
                 />
   </url><url>
-    <loc>/tags/css/</loc>
+    <loc>https://kokionodera.github.io/mysite/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/markdown-syntax.pt-br/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/markdown-syntax.pt-br/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/guia-do-thema/</loc>
+    <loc>https://kokionodera.github.io/mysite/series/guia-do-thema/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/html/</loc>
+    <loc>https://kokionodera.github.io/mysite/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://kokionodera.github.io/mysite/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://kokionodera.github.io/mysite/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/"
+                href="https://kokionodera.github.io/mysite/"
                 />
   </url><url>
-    <loc>/tags/markdown/</loc>
+    <loc>https://kokionodera.github.io/mysite/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/markdown-syntax/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://kokionodera.github.io/mysite/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="https://kokionodera.github.io/mysite/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/series/"
+                href="https://kokionodera.github.io/mysite/series/"
                 />
   </url><url>
-    <loc>/categories/sintaxe/</loc>
+    <loc>https://kokionodera.github.io/mysite/categories/sintaxe/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/syntax/</loc>
+    <loc>https://kokionodera.github.io/mysite/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://kokionodera.github.io/mysite/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://kokionodera.github.io/mysite/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/tags/"
+                href="https://kokionodera.github.io/mysite/tags/"
                 />
   </url><url>
-    <loc>/categories/temas/</loc>
+    <loc>https://kokionodera.github.io/mysite/categories/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/themes/</loc>
+    <loc>https://kokionodera.github.io/mysite/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/themes-guide/</loc>
+    <loc>https://kokionodera.github.io/mysite/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/rich-content.pt-br/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/rich-content.pt-br/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/privacy/</loc>
+    <loc>https://kokionodera.github.io/mysite/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/rich-content/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/shortcodes/</loc>
+    <loc>https://kokionodera.github.io/mysite/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/more-rich-content.pt-br/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/more-rich-content.pt-br/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/more-rich-content/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/more-rich-content/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/placeholder-text/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/text/</loc>
+    <loc>https://kokionodera.github.io/mysite/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/placeholder-text.pt-br/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/placeholder-text.pt-br/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/math-typesetting.pt-br/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/math-typesetting.pt-br/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/math-typesetting/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/emoji/</loc>
+    <loc>https://kokionodera.github.io/mysite/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/emoji-support/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/emoji-support.pt-br/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/emoji-support.pt-br/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/development/</loc>
+    <loc>https://kokionodera.github.io/mysite/categories/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/development/</loc>
+    <loc>https://kokionodera.github.io/mysite/tags/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/hugo-coder-wiki/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://kokionodera.github.io/mysite/tags/hugo/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/hugo-coder-wiki/</loc>
+    <loc>https://kokionodera.github.io/mysite/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/themes/</loc>
+    <loc>https://kokionodera.github.io/mysite/tags/themes/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>https://kokionodera.github.io/mysite/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="https://kokionodera.github.io/mysite/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/authors/"
+                href="https://kokionodera.github.io/mysite/authors/"
                 />
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://kokionodera.github.io/mysite/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/contact/"
+                href="https://kokionodera.github.io/mysite/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/contact/"
+                href="https://kokionodera.github.io/mysite/contact/"
                 />
   </url>
 </urlset>

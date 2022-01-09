@@ -2,102 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/site/</loc>
+    <loc>https://kokionodera.github.io/mysite/en/site/</loc>
     <lastmod>2022-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/site/"
+                href="https://kokionodera.github.io/mysite/site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/site/"
+                href="https://kokionodera.github.io/mysite/en/site/"
                 />
   </url><url>
-    <loc>/en/about/</loc>
+    <loc>https://kokionodera.github.io/mysite/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/about/"
+                href="https://kokionodera.github.io/mysite/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="https://kokionodera.github.io/mysite/en/about/"
                 />
   </url><url>
-    <loc>/en/authors/</loc>
+    <loc>https://kokionodera.github.io/mysite/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/authors/"
+                href="https://kokionodera.github.io/mysite/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="https://kokionodera.github.io/mysite/en/authors/"
                 />
   </url><url>
-    <loc>/en/categories/</loc>
+    <loc>https://kokionodera.github.io/mysite/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/categories/"
+                href="https://kokionodera.github.io/mysite/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://kokionodera.github.io/mysite/en/categories/"
                 />
   </url><url>
-    <loc>/en/contact/</loc>
+    <loc>https://kokionodera.github.io/mysite/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/contact/"
+                href="https://kokionodera.github.io/mysite/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/contact/"
+                href="https://kokionodera.github.io/mysite/en/contact/"
                 />
   </url><url>
-    <loc>/en/</loc>
+    <loc>https://kokionodera.github.io/mysite/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/"
+                href="https://kokionodera.github.io/mysite/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://kokionodera.github.io/mysite/en/"
                 />
   </url><url>
-    <loc>/en/series/</loc>
+    <loc>https://kokionodera.github.io/mysite/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/series/"
+                href="https://kokionodera.github.io/mysite/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="https://kokionodera.github.io/mysite/en/series/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>https://kokionodera.github.io/mysite/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/tags/"
+                href="https://kokionodera.github.io/mysite/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://kokionodera.github.io/mysite/en/tags/"
                 />
   </url>
 </urlset>

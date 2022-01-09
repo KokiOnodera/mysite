@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://kokionodera.github.io/mysite/"
 title = "Koki Onodera"
 theme = "hugo-coder"
 languageCode = "ja-jp"
