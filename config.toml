@@ -10,8 +10,7 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
-publishDir = "docs"
-canonifyurls = true
+
 
 [params]
 author = "Powered by"
